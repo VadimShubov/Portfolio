@@ -3,3 +3,4 @@ Hello world
 commit test
 Goodbye world
 Add line
+new branch line
