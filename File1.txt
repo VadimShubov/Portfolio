@@ -4,3 +4,4 @@ commit test
 Goodbye world
 Add line
 new branch line
+new line for GUI
